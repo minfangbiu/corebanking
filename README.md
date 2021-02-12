@@ -1,5 +1,9 @@
-* 壳瓣：课题 讲座 行程 简介
-* kb727.com
-* https://www.namesilo.com
-* https://www.idcspy.com/9598.html
+git clone https://github.com/minfangbiu/kb727.git
 
+cd kb727
+
+git add .
+
+git commit  -m  "commit infomation"
+
+git push -u origin master
