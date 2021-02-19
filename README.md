@@ -11,6 +11,6 @@ git config --global user.name "Your Name"
 
 git add .
 
-git commit  -m  "20210218"
+git commit -m "20210218"
 
 git push -u origin master
